@@ -1,0 +1,80 @@
+Yandex N.V. (Russian: Яндекс) is a multinational corporation primarily for Russian and Russian-language users,[4] providing 70 Internet-related products and services, including transportation, search and information services, e-commerce, navigation, mobile applications, and online advertising.[5][2][clarification needed]
+
+The firm is registered in Schiphol, the Netherlands as a naamloze vennootschap (Dutch public limited company),[6] but the company founders and most of the team members are located in Russia. It primarily serves audiences in Russia and the Commonwealth of Independent States, and also has 30 offices worldwide.[7][8]
+
+The firm is the largest technology company in Russia[9] and the second largest search engine on the Internet in Russian, with a market share of over 42%.[10] It also has the largest market share of any search engine from Europe and the Commonwealth of Independent States and is the 5th largest search engine worldwide after Google, Baidu, Bing, and Yahoo!.[citation needed]
+
+Its main competitors on the Russian market are Google, VK, and Rambler.
+
+Offices
+Yandex has offices in 10 countries.[11] The company's technology and business development unit, Yandex Labs, was opened in Silicon Valley in 2008.[12] The Istanbul office was launched together with the company's web portal in Turkey in 2011.[13]
+The company opened its first European office in Lucerne in 2012 to serve advertising clients in the EU.[14] Its first research and development office in Europe started operating in Berlin in 2014.[15] The company's Shanghai office was launched in 2015 to facilitate work with Chinese companies operating on the Russian language market.[16]
+A new location in Prague was added in December 2021 to accommodate the company's rapidly expanding crowdsourcing, routing, cloud computing, ridesharing and weather forecasting teams.[1]
+
+History
+Name
+In 1993, Arkady Volozh and Ilya Segalovich, friends since their school days and by then working together to develop search software,[17] invented the word "Yandex" to describe their search technologies. The name initially stood for "Yet Another iNDEXer".[18] However, this is also a bilingual pun on "index" since "Я" ("ya") means "I" in Russian. Another pun is based on the yin and yang contrast (Russian: инь – индекс, ян – яндекс).
+
+Development
+Between 1993 and 1996, the company continued developing its search technologies and released software for searching the Bible.[18] The Yandex.ru search engine was launched on September 23, 1997, and was presented at the Softool exhibition in Moscow.[19] Initially, the search engine was developed by Comptek. In 2000, Yandex was incorporated as a standalone company by Arkady Volozh.[18]
+
+In 1998, Yandex launched contextual advertisement on its search engine.
+
+In September 2005, it opened an office in Ukraine[20] and launched www.yandex.ua.[21] In 2007, Yandex introduced a customized search engine for Ukrainian users;[22] Yandex also opened its development center in Kyiv in May 2007. In 2008, Yandex extended its presence in Ukraine by increasing bandwidth between Moscow data centers and UA-IX in Ukraine fivefold.[23] In 2009, all services of www.yandex.ua were localized for the Ukrainian market.[24] In 2010, Yandex launched its "Poltava" search engine algorithm for Ukrainian users, based on its MatrixNet technology.[25]
+
+On June 20, 2008, it announced the formation of Yandex Labs in Silicon Valley, with an objective to foster "innovation in search and advertising technology".[12]
+
+Services
+In 2001, the company launched the Yandex.Direct online advertising network.[26]
+
+In January 2009, Mozilla Firefox 3.5, replaced Google with Yandex as the default search provider for Russian-language builds.[27]
+
+In August 2009, the company had introduced a player of free legal music in its search results.
+
+In September 2010, Yandex launched Yandex Music, a music streaming service, with a catalogue of 800,000 tracks from 58,000 performers.[28]
+
+On May 19, 2010, it launched an English-only web search engine.[29][30]
+
+In March 2013, the company added an English user interface to its translation mobile app.[31]
+
+In July 2013, Mail.Ru started placing Yandex Direct ads on its search result pages.[32]
+
+On October 10, 2017, the company introduced its intelligent personal assistant, Alisa (Alice) for Android, iOS, and Microsoft Windows.[33][34][35]
+
+On February 16, 2018, the company showed off the first tests of its autonomous cars in Moscow.[36][37]
+
+Acquisitions
+In March 2007, it acquired Russian social networking service moikrug.ru.;[38] on June 16, 2008, Yandex acquired SMILink, a Russian road traffic monitoring agency, to merge with Yandex. Maps services.[39] In September 2008, the company acquired the rights to the Punto Switcher software program, an automatic Russian to English keyboard layout switcher.[40]
+
+In September 2010, it invested in a $4.3 million financing round by Face.com.[41] The company was acquired by Facebook in 2012. In December 2010, the firm launched Yandex.Start to find startups and work with them systematically, and purchased WebVisor's behavior analysis technology in December 2010.[42][43] In September 2011, it invested in Blekko as part of a $30 million financing round.[44][45] In November 2011, it acquired software developer SPB Software for $38 million.[46][47] In June 2012, it acquired a 25% stake in Seismotech, for $1 million.[48][49] On January 26, 2011, it introduced premium placement opportunity in its Business directory in which advertisers' local small businesses are highlighted.[50] On January 27, 2011, the company acquired single sign-in service Loginza.[51]
+
+In August 2011, Yandex acquired The Tweeted Times, a news delivery startup.[52] In September 2011, it launched a search engine and a range of other services in Turkey, opening an office in Istanbul.[13]
+
+In October 2013, the company acquired KinoPoisk, the biggest Russian movie search engine.[53][54][55] In February 2014, Yandex invested several million dollars in MultiShip.[56][57] In March 2014, it acquired Israeli geolocation startup KitLocate and opened a research and development office in Israel.[58][59][60] In June 2014, it acquired Auto.ru, an online marketplace and classified advertising website for automobiles, for $175 million.[61][62] In December 2015, it acquired Internet security company Agnitum .[63] On June 6, 2017, the company invested in a $5 million financing round by Doc+.[64] In December 2017, it acquired food delivery Foodfox.[65] On February 7, 2018, Uber and Yandex NV merged their businesses in Russia, Kazakhstan, Azerbaijan, Armenia, Belarus and Georgia. Uber invested $225 million and owns 36.6% stake in the venture while Yandex invested $100 million and owns a 59.3% stake.[66]
+
+In May 2018, Sberbank and Yandex completed a joint venture deal to develop a B2C eCommerce ecosystem.[67] In October 2018, Yandex acquired Edadil (Russian: Едадил, lit. "grocery deals"), a deal aggregator service.[68]
+
+In June 2021, Yandex, VTB Bank, LANIT Group and computer hardware producer Gigabyte founded a joint venture to start producing servers in Russia in 2022.[69] In October 2021, construction of a new plant in Ryazan Oblast was launched with 1 billion roubles during the first stage of investments. The new plant will produce servers, data storage systems, gateways and smart equipment under “Openyard” brand.[70] In January 2022, Yandex acquired "eLama", digital advertising platform, waiting for the approvement from Federal Antimonopoly Service.[71] That same month Yandex has also bought "BandLink" music service.[72]
+
+Finances
+The company became profitable in November 2002. In 2004, Yandex sales increased to $17 million, up 1000% in 2 years. The net income of the company in 2004 was $7 million. In June 2006, the weekly revenue of Yandex.Direct context ads system exceeded $1 million. The company's accounting has been audited by Deloitte since 1999.
+
+On May 24, 2011, it raised $1.3 billion in an initial public offering on NASDAQ, the biggest initial public offering for a dot-com company since Google's offering in 2004.[73] Among the largest investors were Baring Vostok Capital Partners, which owned a 30% stake, and Tiger Management, which owned a 15% stake.[74]
+
+In 2013, Yandex became the largest media property in Russia by revenue.[75]
+
+Security
+On June 1, 2017, Yandex closed its offices in Kyiv and Odessa, Ukraine after the Security Service of Ukraine raided the offices and accused the company of illegally collecting Ukrainian users’ data and sending it to Russian security agencies.[76] The firm denied any wrongdoing. In May 2017, all Yandex services were banned in Ukraine by Presidential Decree No. 133/2017.[77]
+
+In October and November 2018, Yandex was targeted in a cyberattack using the Regin malware, aimed at stealing technical information from its research and development unit on how users were authenticated.[78] An investigation by Kaspersky Lab attributed the hacks to Five Eyes intelligence agencies.[78]
+
+In June 2019, RBC News reported that Yandex had refused a request by the Russian Federal Security Service (FSB) under the Yarovaya law to surrender encryption keys that could decrypt the private data of its e-mail service and cloud storage users. The company argued that it was impossible to comply with the relevant law without compromising its users' privacy.[79] Maxim Akimov, Deputy Prime Minister of Russia, said that the government will take action to relieve FSB pressure on the company.[80] Alexander Zharov, head of the Federal Service for Supervision of Communications, Information Technology and Mass Media, subsequently said that Yandex and the FSB had reached an agreement where the company would provide the required data without handing over the encryption keys.[81]
+
+In February 2021 Yandex admitted that one of their system administrators with access rights to Yandex’s email service had enabled unauthorized access, leading to almost 5,000 Yandex email inboxes being compromised.[82]
+
+News and media
+In April 2014, a movie called Startup, about the history of Yandex was released.[83]
+
+On April 20, 2020 as a result of the COVID-19 pandemic in Russia, Yandex made its home coronavirus testing service free of charge for all residents of Moscow and its surroundings, and will be available to other regions in the future. Previously, it announced the launch of the service on April 16.[84]
+
+In late March 2022, Yandex was the subject of a Financial Times investigation that had been initiated by the nonprofit organization Me2B Alliance as part of an application auditing campaign led by researcher Zach Edwards. Edwards and four expert researchers, including Cher Scarlett, a former Apple security engineer, found that a software development kit (SDK) called AppMetrica, a product of Yandex, was harvesting data from more than 52,000 applications such as a user's device fingerprint and IP address and storing it in Russia on Yandex's servers, which they said due to Russian law, and the nature of SDKs, could be accessed by Russian authorities without their knowledge and used to identify them. Yandex said of identification by the data collected: "Although theoretically possible, in practice it is extremely hard to identify users based solely on such information collected." Of authority requests for data they said: "Any requests that fail to comply with all relevant procedural and legal requirements are turned down."[85][86]
